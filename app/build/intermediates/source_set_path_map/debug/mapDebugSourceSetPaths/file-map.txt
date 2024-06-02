@@ -1,0 +1,57 @@
+com.prathameshkumbhar.realmtutorial.app-lifecycle-viewmodel-savedstate-2.8.1-0 C:\Users\Prathamesh\.gradle\caches\transforms-4\028b87644a5a21c47a1d45cdf3b145c4\transformed\lifecycle-viewmodel-savedstate-2.8.1\res
+com.prathameshkumbhar.realmtutorial.app-lifecycle-process-2.8.1-1 C:\Users\Prathamesh\.gradle\caches\transforms-4\09e9b1221fdb56e1346245fece536e99\transformed\lifecycle-process-2.8.1\res
+com.prathameshkumbhar.realmtutorial.app-startup-runtime-1.1.1-2 C:\Users\Prathamesh\.gradle\caches\transforms-4\0c51b1160a6b9161dabef022f6a7ce55\transformed\startup-runtime-1.1.1\res
+com.prathameshkumbhar.realmtutorial.app-material-release-3 C:\Users\Prathamesh\.gradle\caches\transforms-4\0d08b5827c9922658418616e96f3e938\transformed\material-release\res
+com.prathameshkumbhar.realmtutorial.app-navigation-runtime-ktx-2.5.1-4 C:\Users\Prathamesh\.gradle\caches\transforms-4\121b12084955be7288abac263964b109\transformed\navigation-runtime-ktx-2.5.1\res
+com.prathameshkumbhar.realmtutorial.app-ui-geometry-release-5 C:\Users\Prathamesh\.gradle\caches\transforms-4\14d8c69d231830c819e3e3314cae2848\transformed\ui-geometry-release\res
+com.prathameshkumbhar.realmtutorial.app-ui-tooling-data-release-6 C:\Users\Prathamesh\.gradle\caches\transforms-4\1592bf0c427ae45e6aa55e8ade2e4350\transformed\ui-tooling-data-release\res
+com.prathameshkumbhar.realmtutorial.app-runtime-saveable-release-7 C:\Users\Prathamesh\.gradle\caches\transforms-4\1ba489514e074427b93c2a598544fa3d\transformed\runtime-saveable-release\res
+com.prathameshkumbhar.realmtutorial.app-savedstate-1.2.1-8 C:\Users\Prathamesh\.gradle\caches\transforms-4\216d7d3e6a51a552162988248d7e0356\transformed\savedstate-1.2.1\res
+com.prathameshkumbhar.realmtutorial.app-activity-1.9.0-9 C:\Users\Prathamesh\.gradle\caches\transforms-4\22e6e3bdf6e7a65cc040262b8fd33bb4\transformed\activity-1.9.0\res
+com.prathameshkumbhar.realmtutorial.app-ui-text-release-10 C:\Users\Prathamesh\.gradle\caches\transforms-4\25002247a724d290a6a101170f38e5cf\transformed\ui-text-release\res
+com.prathameshkumbhar.realmtutorial.app-hilt-navigation-compose-1.2.0-11 C:\Users\Prathamesh\.gradle\caches\transforms-4\2592f684e2484f052311426e2a1438e8\transformed\hilt-navigation-compose-1.2.0\res
+com.prathameshkumbhar.realmtutorial.app-ui-release-12 C:\Users\Prathamesh\.gradle\caches\transforms-4\25fc3d52d04f46fc940af7957b5f9c25\transformed\ui-release\res
+com.prathameshkumbhar.realmtutorial.app-ui-tooling-release-13 C:\Users\Prathamesh\.gradle\caches\transforms-4\3082558f51823d33c3a51ea4edde4f2f\transformed\ui-tooling-release\res
+com.prathameshkumbhar.realmtutorial.app-core-runtime-2.2.0-14 C:\Users\Prathamesh\.gradle\caches\transforms-4\32d0e40e9856b4c87c06737b60dc988e\transformed\core-runtime-2.2.0\res
+com.prathameshkumbhar.realmtutorial.app-lifecycle-livedata-core-ktx-2.8.1-15 C:\Users\Prathamesh\.gradle\caches\transforms-4\382249e1854e380d761bcd2974eb9853\transformed\lifecycle-livedata-core-ktx-2.8.1\res
+com.prathameshkumbhar.realmtutorial.app-lifecycle-viewmodel-release-16 C:\Users\Prathamesh\.gradle\caches\transforms-4\38772c0bb57957857c58a360cf334daf\transformed\lifecycle-viewmodel-release\res
+com.prathameshkumbhar.realmtutorial.app-animation-core-release-17 C:\Users\Prathamesh\.gradle\caches\transforms-4\433a6e97d65cc964d778d6a1ff3bf26d\transformed\animation-core-release\res
+com.prathameshkumbhar.realmtutorial.app-material-ripple-release-18 C:\Users\Prathamesh\.gradle\caches\transforms-4\438a8616153929646d36708761fb024d\transformed\material-ripple-release\res
+com.prathameshkumbhar.realmtutorial.app-ui-util-release-19 C:\Users\Prathamesh\.gradle\caches\transforms-4\4695cd904d16a93dae39304e7f1f891d\transformed\ui-util-release\res
+com.prathameshkumbhar.realmtutorial.app-profileinstaller-1.3.1-20 C:\Users\Prathamesh\.gradle\caches\transforms-4\4f45798de0a1978b17e46c9d164ee6c6\transformed\profileinstaller-1.3.1\res
+com.prathameshkumbhar.realmtutorial.app-animation-release-21 C:\Users\Prathamesh\.gradle\caches\transforms-4\4fdcbd90d8d96bc503af02a962bcb229\transformed\animation-release\res
+com.prathameshkumbhar.realmtutorial.app-ui-unit-release-22 C:\Users\Prathamesh\.gradle\caches\transforms-4\52dd4820422a472f9b09e833e50cabc7\transformed\ui-unit-release\res
+com.prathameshkumbhar.realmtutorial.app-customview-poolingcontainer-1.0.0-23 C:\Users\Prathamesh\.gradle\caches\transforms-4\620258425daa70e7f74920f93b621322\transformed\customview-poolingcontainer-1.0.0\res
+com.prathameshkumbhar.realmtutorial.app-core-1.13.1-24 C:\Users\Prathamesh\.gradle\caches\transforms-4\69e9e93a85e27d0a34c144810b359c2d\transformed\core-1.13.1\res
+com.prathameshkumbhar.realmtutorial.app-savedstate-ktx-1.2.1-25 C:\Users\Prathamesh\.gradle\caches\transforms-4\6afd791702e23e8c3c84a3f683372459\transformed\savedstate-ktx-1.2.1\res
+com.prathameshkumbhar.realmtutorial.app-runtime-release-26 C:\Users\Prathamesh\.gradle\caches\transforms-4\76ad836f2561dc3701f8e80b3e12d053\transformed\runtime-release\res
+com.prathameshkumbhar.realmtutorial.app-navigation-compose-2.5.1-27 C:\Users\Prathamesh\.gradle\caches\transforms-4\7ef2d3875700242e6b5e288eb2a324f9\transformed\navigation-compose-2.5.1\res
+com.prathameshkumbhar.realmtutorial.app-lifecycle-livedata-core-2.8.1-28 C:\Users\Prathamesh\.gradle\caches\transforms-4\805591f13eb806ebc3eb2ec2606841a4\transformed\lifecycle-livedata-core-2.8.1\res
+com.prathameshkumbhar.realmtutorial.app-lifecycle-viewmodel-compose-release-29 C:\Users\Prathamesh\.gradle\caches\transforms-4\891e48061989491b07c577b0e543aa2d\transformed\lifecycle-viewmodel-compose-release\res
+com.prathameshkumbhar.realmtutorial.app-navigation-common-2.5.1-30 C:\Users\Prathamesh\.gradle\caches\transforms-4\891e4ffaddc44dcb6dcbe07e6b5f5536\transformed\navigation-common-2.5.1\res
+com.prathameshkumbhar.realmtutorial.app-hilt-navigation-1.2.0-31 C:\Users\Prathamesh\.gradle\caches\transforms-4\89570292d28099c71cafc8509ac7165a\transformed\hilt-navigation-1.2.0\res
+com.prathameshkumbhar.realmtutorial.app-foundation-release-32 C:\Users\Prathamesh\.gradle\caches\transforms-4\942cd06c68f6f7d759fa379bc86d60ca\transformed\foundation-release\res
+com.prathameshkumbhar.realmtutorial.app-ui-tooling-preview-release-33 C:\Users\Prathamesh\.gradle\caches\transforms-4\a23e4011f6bf6a3f5d4d320dbc51ab8a\transformed\ui-tooling-preview-release\res
+com.prathameshkumbhar.realmtutorial.app-navigation-runtime-2.5.1-34 C:\Users\Prathamesh\.gradle\caches\transforms-4\a31602ddf4e68f901771d3de28858aaf\transformed\navigation-runtime-2.5.1\res
+com.prathameshkumbhar.realmtutorial.app-foundation-layout-release-35 C:\Users\Prathamesh\.gradle\caches\transforms-4\a6783196386e24deeae1d9bd0dc90df3\transformed\foundation-layout-release\res
+com.prathameshkumbhar.realmtutorial.app-lifecycle-livedata-2.8.1-36 C:\Users\Prathamesh\.gradle\caches\transforms-4\ab0e24b2b701a217517e1a2b7f7a0c0b\transformed\lifecycle-livedata-2.8.1\res
+com.prathameshkumbhar.realmtutorial.app-core-ktx-1.13.1-37 C:\Users\Prathamesh\.gradle\caches\transforms-4\aca6c8b1486cfec11ddc50798f7c432b\transformed\core-ktx-1.13.1\res
+com.prathameshkumbhar.realmtutorial.app-material3-1.1.1-38 C:\Users\Prathamesh\.gradle\caches\transforms-4\acb740a9823c476b5ceca6eeba080d6f\transformed\material3-1.1.1\res
+com.prathameshkumbhar.realmtutorial.app-lifecycle-runtime-release-39 C:\Users\Prathamesh\.gradle\caches\transforms-4\ad4961d3b2ccce85728787e59cba177f\transformed\lifecycle-runtime-release\res
+com.prathameshkumbhar.realmtutorial.app-material-icons-core-release-40 C:\Users\Prathamesh\.gradle\caches\transforms-4\bd8b697c91f8281a258a8266d3b918d9\transformed\material-icons-core-release\res
+com.prathameshkumbhar.realmtutorial.app-lifecycle-viewmodel-ktx-2.8.1-41 C:\Users\Prathamesh\.gradle\caches\transforms-4\c0c21634574c6cf564504cbba4df8d38\transformed\lifecycle-viewmodel-ktx-2.8.1\res
+com.prathameshkumbhar.realmtutorial.app-ui-graphics-release-42 C:\Users\Prathamesh\.gradle\caches\transforms-4\ca1a0bd4d5af7ae2baf5bdfd685585fb\transformed\ui-graphics-release\res
+com.prathameshkumbhar.realmtutorial.app-fragment-1.5.1-43 C:\Users\Prathamesh\.gradle\caches\transforms-4\cc22a45675ae9496980413975bb4973d\transformed\fragment-1.5.1\res
+com.prathameshkumbhar.realmtutorial.app-annotation-experimental-1.4.0-44 C:\Users\Prathamesh\.gradle\caches\transforms-4\cc5f187e0dc094a6963bbf0e23733467\transformed\annotation-experimental-1.4.0\res
+com.prathameshkumbhar.realmtutorial.app-lifecycle-runtime-ktx-release-45 C:\Users\Prathamesh\.gradle\caches\transforms-4\d0ea630428b988b3413b9bfae1fd659d\transformed\lifecycle-runtime-ktx-release\res
+com.prathameshkumbhar.realmtutorial.app-navigation-common-ktx-2.5.1-46 C:\Users\Prathamesh\.gradle\caches\transforms-4\d895ba534d43081b968feadb354383ec\transformed\navigation-common-ktx-2.5.1\res
+com.prathameshkumbhar.realmtutorial.app-activity-ktx-1.9.0-47 C:\Users\Prathamesh\.gradle\caches\transforms-4\f48c04610698988cec215f79d1c6d5f8\transformed\activity-ktx-1.9.0\res
+com.prathameshkumbhar.realmtutorial.app-ui-test-manifest-1.6.0-48 C:\Users\Prathamesh\.gradle\caches\transforms-4\f698bdb821e0ddc633657afb7473fdc6\transformed\ui-test-manifest-1.6.0\res
+com.prathameshkumbhar.realmtutorial.app-emoji2-1.3.0-49 C:\Users\Prathamesh\.gradle\caches\transforms-4\f747f692b2fc1db3986ee45ab346b76d\transformed\emoji2-1.3.0\res
+com.prathameshkumbhar.realmtutorial.app-activity-compose-1.9.0-50 C:\Users\Prathamesh\.gradle\caches\transforms-4\f87e8bae9d2e9689343cb57a21597fcc\transformed\activity-compose-1.9.0\res
+com.prathameshkumbhar.realmtutorial.app-resValues-51 C:\Users\Prathamesh\Pratham Projects\Clean Architecture\RealmTutorial\app\build\generated\res\resValues\debug
+com.prathameshkumbhar.realmtutorial.app-packageDebugResources-52 C:\Users\Prathamesh\Pratham Projects\Clean Architecture\RealmTutorial\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.prathameshkumbhar.realmtutorial.app-packageDebugResources-53 C:\Users\Prathamesh\Pratham Projects\Clean Architecture\RealmTutorial\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.prathameshkumbhar.realmtutorial.app-debug-54 C:\Users\Prathamesh\Pratham Projects\Clean Architecture\RealmTutorial\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.prathameshkumbhar.realmtutorial.app-debug-55 C:\Users\Prathamesh\Pratham Projects\Clean Architecture\RealmTutorial\app\src\debug\res
+com.prathameshkumbhar.realmtutorial.app-main-56 C:\Users\Prathamesh\Pratham Projects\Clean Architecture\RealmTutorial\app\src\main\res
